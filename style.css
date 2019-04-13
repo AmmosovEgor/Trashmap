@@ -1,0 +1,85 @@
+
+body{
+background: #AFEEEE;
+color: white;
+}
+.header{
+height: 100px;
+background: #00CED1;
+}
+.footer{
+height: 50px;
+background: #2F4F4F;
+color: white;
+}
+.textd{
+text-decoration: none;
+color: white;
+}
+.text-btn-size{
+font-size: 22px;
+}
+.map{
+background: #00FFFF;
+}
+.content{
+height: 800px;
+}
+.color1{
+background: #B0E0E6;
+}
+.bg-reg{
+background: #00CED1;
+}
+.mx{
+margin-left: 6%;
+}
+.logotip{
+height: 80px;
+width: 80px;
+}
+.info{
+	height: 300px;
+}
+.box{
+	background: #00CED1;
+	height: 250px;
+	border: solid 1px;
+	border-color: #00FFFF;
+	transition: 0.7s;
+	transform: scale(1);
+}
+.box:hover{
+	background: #00BFFF;
+	transition: 0.7s;
+	transform: scale(1.1);
+}
+.box1{
+	background: #00CED1;
+	height: 250px;
+	border: solid 1px;
+	border-color: #00FFFF;
+	transition: 0.7s;
+}
+.box1:hover{
+	background: #00BFFF;
+	transition: 0.7s;
+}
+.co{
+	height: 400px;
+	border: solid 1px;
+	border-color: aqua;
+	background: #00CED1;
+}
+.cobox{
+	padding: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.cobox h5{
+	margin-top: -5px;
+}
+.image{
+	border: solid 5px;
+	border-color: white;
+}
